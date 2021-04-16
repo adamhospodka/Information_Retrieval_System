@@ -1,1 +1,1 @@
-# information_retrieval
+# Information retreival system
