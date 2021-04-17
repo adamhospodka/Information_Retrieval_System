@@ -2,7 +2,7 @@
 
 ## ℹ️ Project info
 *   **Course**: PV211 Introduction to information retrieval
-*   Semester: Summer semester 2021
+*   **Semester**: Summer semester 2021
 *   **Author**: Adam Hospodka ([506521@muni.cz](mailto:506521@muni.cz))
 *   **UČO**: 506521
 
@@ -11,7 +11,7 @@
 ### Idea:
 Ranking the documents for given queries using the standard *TF-IDF* approach with small tweaks.
 
-###Steps:
+### Steps:
 1. List every word from every document using ```buildPairs()``` function
 2. Remove duplicates using the ```uniq()``` function
 3. Based on these pairs create inverted index using the ```buildInvertedIndex()``` function
