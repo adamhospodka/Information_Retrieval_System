@@ -7,8 +7,8 @@
 *   **UČO**: 506521
 
 ### Project involved
-* First term assignment (Cranfield Collection)
-* Second term assignment boolean model (TREC Collection)
-* Second term assignment TF-IDF model (TREC Collection)
+* First term assignment *TF-IDF model* (Cranfield Collection)
+* Second term assignment *boolean model* (TREC Collection)
+* Second term assignment *TF-IDF model* (TREC Collection)
 
 
