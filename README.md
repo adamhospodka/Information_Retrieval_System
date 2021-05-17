@@ -1,6 +1,6 @@
 # Information retrieval system implementation
 
-## ℹ️ Projects info
+## ℹ️ Information
 *   **Course**: PV211 Introduction to information retrieval
 *   **Semester**: Summer semester 2021
 *   **Author**: Adam Hospodka ([506521@muni.cz](mailto:506521@muni.cz))
